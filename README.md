@@ -1,4 +1,6 @@
-<img src="Assests/Logo.png" alt="Descrição da Imagem" width="300" />
+<div style="text-align:center; vertical-align:middle;">
+     <img src="Assests/Logo.png" alt="Descrição da Imagem" width="200" />
+</div>  
 # Criando uma Aplicação de Transferências Bancárias com .NET
 
 Um Desafio No Bootcamp da MRV para fixa, 
