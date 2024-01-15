@@ -1,21 +1,22 @@
-# Digital Innovation One - Prática .NET
 
-## POO na prática: criando uma aplicação
+![Logo](https://github.com/viniciuslemos2102/DIO.Bank_net/blob/master/Assests/Logo.png)
 
-[Slides](dio-dotnet-poo-lab-1.pdf)
 
-## Contato
+# Criando uma Aplicação de Transferências Bancárias com .NET
 
-Eliézer Zarpelão
+Um Desafio No Bootcamp da MRV para fixa, 
+POO na prática: criando uma aplicação .NET
 
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](http://br.linkedin.com/in/eliezerzarpelao)
 
-WebSite:  [eliezerzarpelao.eti.br](https://eliezerzarpelao.eti.br)
+## Aprendizados
 
-Instagram:  [instagram.com/eliezerzarpelao](https://instagram.com/eliezerzarpelao)
 
-YouTube:  [youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g](https://www.youtube.com/channel/UC47RD-s-U6fpKTY0soIUn6g/featured?view_as=subscriber)
+como criar um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar enums.
+## Stack utilizada
+**Back-end:** C#, .Net 6
 
-Twitter:  [@eliezerzarpelao](https://twitter.com/eliezerzarpelao)
 
-Github:  [github.com/elizarp](https://github.com/elizarp)
+## Autor
+
+- [@Vinícius Lemos](https://www.linkedin.com/in/vin%C3%ADcius-lemos-dev21/)
+
