@@ -1,7 +1,4 @@
-
-![Logo](https://github.com/viniciuslemos2102/DIO.Bank_net/blob/master/Assests/Logo.png)
-
-
+<img src="Assests/Logo.png" alt="Descrição da Imagem" width="300" />
 # Criando uma Aplicação de Transferências Bancárias com .NET
 
 Um Desafio No Bootcamp da MRV para fixa, 
